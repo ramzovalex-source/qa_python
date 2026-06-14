@@ -409,3 +409,6 @@ class TestBooksCollector:
         assert "Мастер и Маргарита" in favorites
 
         
+
+
+        
