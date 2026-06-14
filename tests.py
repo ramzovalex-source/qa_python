@@ -407,3 +407,5 @@ class TestBooksCollector:
         favorites = collector.get_list_of_favorites_books()
         assert len(favorites) == 1
         assert "Мастер и Маргарита" in favorites
+
+        
